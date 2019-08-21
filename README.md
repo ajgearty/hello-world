@@ -2,4 +2,4 @@
 first time github
 HelloHello, 
 
-Austin a marine scientist in training treading in new waters. First go at using github. 
+Austin here, a marine scientist in training treading into new waters. First go at using github. 
